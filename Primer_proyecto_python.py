@@ -1,3 +1,14 @@
+
+##======================================================##
+##                                                      ##
+##   Primer proyecto python                             ##
+##                                                      ##
+##   Autor: George Ababei                               ##
+##   Universidad: Universitat de les Illes Balears      ##
+##                                                      ##
+##======================================================##
+
+
 print(" ")
 print("Importamos los paquetes necesarios")
 print(" ")
