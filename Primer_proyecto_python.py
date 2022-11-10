@@ -1,6 +1,6 @@
 print(" ")
 print("Importamos los paquetes necesarios")
-
+print(" ")
 #!pip install palmerpenguins
 import pandas as pd
 import numpy as np
